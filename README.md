@@ -2,16 +2,17 @@
 
 These are my browser preferences:
 
-1. Start a new Brave Browser profile
-2. Disable autofill
+1. Disable autofill
 3. Change search engine to DuckDuckGo
-4. Download Bitwarden chrome extension
-5. Download uBloc Origin chrome extension
-6. Download Notion chrome extension
-7. Download Night Eye chrome extension
-8. Change Downloads folder to own inbox folder
-9. Change 'New tab page shows' setting to 'Blank page'
-10. Download Just Delete Me chrome extension
+4. Change Downloads folder to own inbox folder
+5. Change 'New tab page shows' setting to 'Blank page'
+4. Download the following chrome extensions:
+    - Bitwarden
+    - uBlock Origin
+    - Notion Web Clipper
+    - Night Eye
+    - Just Delete Me
 
 For coding profiles
-1. Download Google colab chrome extension
+1. Download the following chrome extensions:
+    - Open in Colab
