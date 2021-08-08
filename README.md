@@ -11,5 +11,7 @@ These are my browser preferences:
 7. Download Night Eye chrome extension
 8. Change Downloads folder to own inbox folder
 9. Change 'New tab page shows' setting to 'Blank page'
-10. Download Google colab chrome extension
-11. Download Just Delete Me chrome extension
+10. Download Just Delete Me chrome extension
+
+For coding profiles
+1. Download Google colab chrome extension
