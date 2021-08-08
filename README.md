@@ -12,4 +12,4 @@ These are my browser preferences:
 8. Change Downloads folder to own inbox folder
 9. Change 'New tab page shows' setting to 'Blank page'
 10. Download Google colab chrome extension
-11. 
+11. Download Just Delete Me chrome extension
